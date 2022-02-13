@@ -1,2 +1,2 @@
 # Ecole42
-exercicies from piscine42
+exercicies from Basecamp02 of 42RIO
