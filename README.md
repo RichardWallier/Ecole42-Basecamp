@@ -1,4 +1,4 @@
-# 42rio basecamp
+# 42RIO Basecamp
 
 This is the repo to store what I've done during the basecamp in Jan & Feb 2022.
 Not all of it is already finished, but all with pdf's
