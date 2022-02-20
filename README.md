@@ -1,11 +1,7 @@
-##Ecole42
-My list of exercicies from Basecamp02 - 42RIO in JAN & FEB 2022.
-
-Not all of it is already finished, but all with pdf's
-
 # 42rio basecamp
 
-This is the repo to store what I've done during the basecamp in Jan & Feb 2022. My second try on ecole42, this time in 42rio.
+This is the repo to store what I've done during the basecamp in Jan & Feb 2022.
+Not all of it is already finished, but all with pdf's
 
 # List of finished projects
 
