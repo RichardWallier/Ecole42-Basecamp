@@ -29,16 +29,16 @@ int	ft_ultimate_range(int **range, int min, int max)
 	return (max - min);
 }
 
-// #include <stdio.h>
+#include <stdio.h>
 
-// int	main(void)
-// {
-// 	int	*range;
-// 	int	size;
-// 	size = ft_ultimate_range(&range, 0, 42);
-// 	int index = 0;
-// 	while (index < 42)
-// 		printf("%i ", range[index++]);
-// 	printf("\nsize: %i\n", size);
-// 	return (0);
-// }
+int	main(void)
+{
+	int	*range;
+	int	size;
+	size = ft_ultimate_range(&range, 0, 42);
+	int index = 0;
+	while (index < 42)
+		printf("%i ", range[index++]);
+	printf("\nsize: %i\n", size);
+	return (0);
+}
