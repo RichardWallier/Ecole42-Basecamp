@@ -22,4 +22,4 @@ Rush00 | 125% | 1 |
 Rush01 | 0% | 1 |
 Exam00 | 84% | 1 |
 Exam01 | 52% | 1 |
-Final Exam | SOON | X |
+Final Exam | 70% | 1 |
